@@ -1,10 +1,10 @@
 
-# Latest Agri
+# Smart Agricultural Monitoring System
 
 ## Project Overview
 Project Overview
 
-latest-agri- is a web application project aimed at solving modern agricultural challenges using technology. The project is primarily written in TypeScript (97.6%), with a small portion of JavaScript (1.7%) and other auxiliary tools. The goal of this project could be to provide solutions like:
+The SAMS is a web application project aimed at solving modern agricultural challenges using technology. The project is primarily written in TypeScript (97.6%), with a small portion of JavaScript (1.7%) and other auxiliary tools. The goal of this project could be to provide solutions like:
 
 Crop health monitoring using real-time data.
 Agricultural data analysis for better decision-making.
