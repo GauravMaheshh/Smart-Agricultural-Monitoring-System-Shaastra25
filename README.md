@@ -1,6 +1,5 @@
 
 # Smart Agricultural Monitoring System
-
 ## Project Overview
 
 
@@ -20,23 +19,20 @@ Agricultural data analysis for better decision-making.
 Weather forecasting and its impact on agriculture.
 The application is designed to be scalable, efficient, and user-friendly, with a focus on leveraging data to help farmers and agricultural professionals.
 
-Key Features
+## Key Features
 
-Real-time Data Processing: Process agricultural data like soil moisture, temperature, and humidity in real-time.
-Interactive User Interface: Easy-to-use interface for farmers and agricultural experts.
-Predictive Analytics: Use machine learning or statistical methods to predict crop yields, weather patterns, or pest outbreaks.
-Mobile-Friendly: The platform is responsive, making it accessible on mobile devices.
-Technologies Used
+Real-time Data Processing: Process agricultural data like soil moisture, temperature, and humidity in real-time.  
+Interactive User Interface: Easy-to-use interface for farmers and agricultural experts.  
+Predictive Analytics: Use machine learning or statistical methods to predict crop yields, weather patterns, or pest outbreaks.  
+Mobile-Friendly: The platform is responsive, making it accessible on mobile devices.  
 
-TypeScript: Ensures type safety and enhances the scalability of the project.
-JavaScript: Used for dynamic functionalities and features.
-Vite: A fast build tool and development server used to optimize the workflow.
-Node.js: Backend runtime environment for handling server-side logic.
-HTML/CSS: For creating the structure and style of the application.
+## Technologies Used
 
-
-   ```
-
+TypeScript: Ensures type safety and enhances the scalability of the project.  
+JavaScript: Used for dynamic functionalities and features.  
+Vite: A fast build tool and development server used to optimize the workflow.  
+Node.js: Backend runtime environment for handling server-side logic.  
+HTML/CSS: For creating the structure and style of the application.  
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
