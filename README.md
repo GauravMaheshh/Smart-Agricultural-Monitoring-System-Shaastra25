@@ -4,6 +4,8 @@
 
 
 The SAMS is a web application project aimed at solving modern agricultural challenges using technology.
+Team submission for IIT Madras Shaastra NAF Hackathon '25, 1st place
+
 
 ### Novel TAC Sensor:  
 Inspired by CUPRAC research, the software measures Total Antioxidant Count (TAC) using calibration curves (Trolox reference), offering insights into nutritional value, shelf life, and quality.  
